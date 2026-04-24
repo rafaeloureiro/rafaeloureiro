@@ -16,7 +16,6 @@ Tenho forte interesse em transformar problemas operacionais em soluções práti
 - SQL
 - Power BI
 - Excel Avançado
-- Power Query
 - Automação de Processos
 - Data Analytics
 - Financial Analysis
