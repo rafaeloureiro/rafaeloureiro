@@ -37,7 +37,7 @@ Assistente de programação Python construído com LangChain LCEL, streaming e G
   - Histórico de conversa gerenciado com `HumanMessage` / `AIMessage`
   - Separação de responsabilidades: lógica da chain isolada de `app.py`
 - 🔗 [Repositório](https://github.com/rafaeloureiro/python-assistant-langchain)
-- 🚀 [App]([https://rafaeloureiro-python-assistant-langchain.streamlit.app](https://python-assistant-langchain.streamlit.app/))
+- 🚀 [App](https://python-assistant-langchain.streamlit.app/)
 
 ---
 
