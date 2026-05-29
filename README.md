@@ -3,8 +3,6 @@
 I like working where:
 `data + operations + AI + real-world impact`
 
-I build data-driven solutions focused on operational efficiency, business intelligence, and AI-powered workflows.
-
 Background across finance, supply chain, risk, and performance in multinational environments.
 
 Currently exploring:
