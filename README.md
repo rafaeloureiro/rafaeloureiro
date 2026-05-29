@@ -1,6 +1,7 @@
 # Rafael Loureiro
 
-Economist turned analytics and automation enthusiast.
+I like working where:
+`data + operations + AI + real-world impact`
 
 I build data-driven solutions focused on operational efficiency, business intelligence, and AI-powered workflows.
 
@@ -39,9 +40,6 @@ https://python-assistant-langchain.streamlit.app/
 ## Beyond Tech
 
 Outside of work, I’m into surfing, sailing, economics, cooking, botany, and building side projects that turn interesting ideas into practical systems.
-
-I like working where:
-`data + operations + AI + real-world impact`
 
 ---
 
