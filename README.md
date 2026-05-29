@@ -1,55 +1,54 @@
-# Bem-vindo ao meu portfólio
+# Rafael Loureiro
 
-Olá! Me chamo Rafael.
+Economist turned analytics and automation enthusiast.
 
-Sou graduado em Ciências Econômicas pelo IBMEC-RJ e pós-graduado em Data Science & Analytics pela Universidade de São Paulo.
+I build data-driven solutions focused on operational efficiency, business intelligence, and AI-powered workflows.
 
-Atuo com análise de dados, automação de processos e melhoria operacional, com experiência em empresas multinacionais nas áreas de finanças, risco, supply chain, projetos e performance.
+Background across finance, supply chain, risk, and performance in multinational environments.
 
-Tenho forte interesse em transformar problemas operacionais em soluções práticas utilizando dados, Python, BI, SQL e inteligência de negócio.
-
----
-
-## Principais Skills
-
-- Python
-- SQL
-- Power BI
-- Excel Avançado
-- Automação de Processos
-- Data Analytics
-- Financial Analysis
-- Business Intelligence
-- ETL e consolidação de dados
+Currently exploring:
+`AI Agents` · `Analytics Engineering` · `Data Products` · `Automation`
 
 ---
 
-## Projetos em destaque
+## Tech Stack
 
-### Python Assistant LangChain
-Assistente de programação Python construído com LangChain LCEL, streaming e Groq.
-
-- **Stack:** Python · LangChain · Groq (LLaMA 3.3 70B) · Streamlit
-- **Destaques técnicos:**
-  - Chain montada com **LCEL** (pipe operator: `prompt | llm | parser`)
-  - **Streaming** de respostas token a token via `.stream()`
-  - Histórico de conversa gerenciado com `HumanMessage` / `AIMessage`
-  - Separação de responsabilidades: lógica da chain isolada de `app.py`
-- 🔗 [Repositório](https://github.com/rafaeloureiro/python-assistant-langchain)
-- 🚀 [App](https://python-assistant-langchain.streamlit.app/)
+`Python` · `SQL` · `Power BI` · `Excel` · `LangChain` · `Streamlit` · `ETL` · `APIs`
 
 ---
 
-### 📊 Dashboard de Performance Financeira
-Construção de indicadores financeiros e operacionais para tomada de decisão.
+## Featured Project
+
+### Python AI Assistant
+
+AI-powered Python assistant built with LangChain, Groq, and Streamlit.
+
+- LCEL architecture (`prompt | llm | parser`)
+- Real-time streaming responses
+- Conversation memory handling
+- Modular and deployable structure
+
+🔗 Repository:  
+https://github.com/rafaeloureiro/python-assistant-langchain
+
+🚀 Live App:  
+https://python-assistant-langchain.streamlit.app/
 
 ---
 
-### 🗄️ Consolidação de Dados para BI
-Estruturação e limpeza de bases para integração com Power BI.
+## Beyond Tech
+
+Outside of work, I’m into surfing, sailing, economics, cooking, botany, and building side projects that turn interesting ideas into practical systems.
+
+I like working where:
+`data + operations + AI + real-world impact`
 
 ---
 
-## Contato
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeloureiro-blue?logo=linkedin)](https://www.linkedin.com/in/rafaeloureiro/)
+LinkedIn:  
+https://www.linkedin.com/in/rafaeloureiro/
+
+GitHub:  
+https://github.com/rafaeloureiro
